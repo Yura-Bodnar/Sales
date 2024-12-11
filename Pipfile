@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "==2024.8.30"
+charset-normalizer = "==3.4.0"
+docutils = "==0.21.2"
+idna = "==3.10"
+kivy = "==2.3.0"
+kivy-garden = "==0.1.5"
+kivymd = "==1.2.0"
+pillow = "==11.0.0"
+pygments = "==2.18.0"
+requests = "==2.32.3"
+urllib3 = "==2.2.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
